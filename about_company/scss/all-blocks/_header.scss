@@ -1,0 +1,39 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 55px;
+}
+
+.nav__link{
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.header__span{
+    margin-left: 100px;
+}
+
+.header__info{
+    margin-left: 50px;
+}
+
+.nav__btn{
+    background-color: transparent;
+    border: none;
+}

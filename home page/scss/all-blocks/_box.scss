@@ -1,0 +1,20 @@
+.box__info{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+
+.box{
+    margin-top: 200px;
+}
+
+.box__list{
+    text-align: center;
+}
+
+.box__heading{
+    text-align: center;
+}
+
+.box__img{
+    margin-left: 124px;
+}

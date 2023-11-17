@@ -1,0 +1,35 @@
+.bob__list{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.bob__text{
+    width: 492px;
+    color: #949494;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.bob__btn{
+    width: 185px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    background: #FFBD54;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+.bob__btn2{
+    width: 241px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}

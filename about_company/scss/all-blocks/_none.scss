@@ -1,0 +1,42 @@
+.none .container{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+}
+
+.none__item1{
+    display: flex;
+    gap: 20px;
+}
+
+.none__h2{
+    width: 500px;
+    height: 93px;
+    color: #333;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.none__span{
+    color: #FFBD54;
+}
+
+.none__text{
+    width: 400px;
+    color: #949494;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 80px;
+}
+
+.none__item2{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+}
+
+.none__img{
+    transform: translate(-120px , -10px);
+}

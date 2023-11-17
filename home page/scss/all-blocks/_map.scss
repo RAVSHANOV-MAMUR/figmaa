@@ -1,0 +1,82 @@
+.map__input{
+    width: 375px;
+    height: 50px;
+    border: none;
+    padding: 0px 10px;
+    margin-bottom: 14px;
+    color: #949494;
+}
+
+.map__input1{
+    width: 375px;
+    height: 50px;
+    color: #949494;
+}
+
+.map__input2{
+    width: 375px;
+    height: 165px;
+    margin-top: 14px;
+    color: #949494;
+}
+
+.map__list{
+    background-image: url(../img/mapbg.png);
+    width: 1000px;
+    height: 600px;
+    display: flex;
+}
+
+.map__h2{
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.map__text{
+    width: 400px;
+    color: #949494;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.map__img{
+    width: 410.951px;
+    height: 410.951px;
+    flex-shrink: 0;
+    transform: translate(-10px , 120px);
+}
+
+.map__item{
+    transform: translate(30px , -10px);
+}
+
+.map__btn{
+    width: 226px;
+    height: 50px;
+    background: #FFBD54;
+    cursor: pointer;
+    border: none;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.map{
+    transform: translate(-40px , 100px);
+}
+
+.map .container{
+    display: flex;
+}
+
+.map__iframe{
+    height: 600px;
+    transform: translate(0px , -15px);
+}

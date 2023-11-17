@@ -1,0 +1,52 @@
+.dog__heading{
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    transform: translate(120px , 0px);
+}
+
+.dog .container{
+    background-image: url(../img/dogback.png);
+    width: 1440px;
+    height: 308px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 50px 0px;
+    display: flex;
+}
+
+.dog__input{
+    width: 335px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    padding: 5px 20px;
+    margin-left: 37px;
+}
+
+.dog__btn{
+    width: 188px;
+    height: 50px;
+    border-radius: 3px;
+    background: #333;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+}
+
+.dog__img{
+    width: 613px;
+    height: 481px;
+    transform: translate(200px , -158px);
+}
+
+.dog__info{
+    transform: translate(120px , 0px);
+}
+
+.dog{
+    margin-top: 100px;
+}
